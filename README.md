@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-hema-meena&label=Profile%20views&color=0e75b6&style=flat" alt="s-hema-meena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-hema-meena" alt="s-hema-meena" /></a> </p>
-
 - 🔭 I’m currently working on **Data Analysis Projects and Concepts**
 
 - 🌱 I’m currently learning **Deep learning algorithms.**
 
 - 📫 How to reach me **meenahema1221@gmail.com**
+
+- ⚡ Fun fact **🏆 I've competed in multiple chess tournaments — thinking 10 moves ahead comes in handy in both chess and AI!👨‍💻 Winner of several hackathons where I built data-driven and AI-powered solutions under pressure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
